@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+    background-color: aquamarine
+
+}
+
+p {
+    word-spacing: 10px;
+    font-variant: small-caps;
+    text-align: center;
+    font-size: 20px;
+    color:red;
+}
+
+#img1 {
+    width: 350px;
+    height: 350px;
+}
+
